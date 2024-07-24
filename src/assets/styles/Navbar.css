@@ -1,0 +1,19 @@
+.navbar--container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: #F55A5A;
+    margin: 0;
+}
+
+.Navbar--Logo {
+    width: 3vh;
+    filter: invert(100%);
+}
+
+.Navbar--Title {
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: white;
+}
